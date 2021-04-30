@@ -1,19 +1,14 @@
-body {
-	color: #000;
-}
-
 #banner {
 	width:100%;
 }
 
 .principal{
-	background: #fff;
+	background: #CCCCCC;
 	padding: 30px;
 }
 
 .titulo-principal {
 	padding-left: 20px;
-	color: #FFF;
 }
 
 .titulo-centralizado {
@@ -29,7 +24,7 @@ p {
 }
 
 em strong {
-	color: #D7CE00;
+	color: #FF0000;
 }
 
 .itens {
@@ -37,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-	background: #EDECD4;
+	background: #FFFFFF;
 	padding: 20px;
 }
 
